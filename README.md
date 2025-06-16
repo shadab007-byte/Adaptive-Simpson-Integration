@@ -17,5 +17,5 @@ f(x) = 10 e^{-50|x|} - \frac{0.01}{(x - 0.5)^2 + 0.001} + 5\sin(5x)
 
 This function has a sharp spike near `x = 0.5` and rapid oscillations, making it ideal for testing adaptive quadrature.
 
-## 📈 Output Format
+
 
